@@ -1,2 +1,3 @@
 # DocumentClassification
 This project is document classifier where the files are classifies based on their extension. 
+The goal of this project is to identify and classify the documents into one or more defined categories. In this we identify documents based on the file name for example, if the client don’t know the type of document he/she have and enter the file name as “xyz.doc”, then we are going to help them by saying the type of file it is for the above example the document type is a MS Word document. Same goes with classification of documents if the client enters the list of documents and he wants to segregate particular type of documents then he enters the type of documents then we are going to display list of documents of that type.
